@@ -17,7 +17,7 @@ featured: true
 published: true
 ---
 
-This is my new blog hosted on [Github Pages](https://pages.github.com/)!
+This is my new blog hosted by [Github Pages](https://pages.github.com/)!
 
 >&quot;Chuck Norris's first program was kill -9.&quot;
 ><small><cite title="Plato">Chuck Norris</cite></small>
