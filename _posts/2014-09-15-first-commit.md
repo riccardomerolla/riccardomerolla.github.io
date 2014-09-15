@@ -2,7 +2,7 @@
 layout: post
 title: First Commit
 description: "Hello World"
-headline: "Ready to rock"
+headline: "3, 2, 1...let's GO!!!"
 categories: personal
 tags: 
   - blogging
@@ -17,7 +17,9 @@ featured: true
 published: true
 ---
 
+This is my new blog hosted on [Github Pages](https://pages.github.com/)!
+
 >&quot;Chuck Norris's first program was kill -9.&quot;
 ><small><cite title="Plato">Chuck Norris</cite></small>
 
-This is my new blog hosted on Github-pages!
+The old one was on [Blogspot](http://riccardomerolla.blogspot.it/)...
