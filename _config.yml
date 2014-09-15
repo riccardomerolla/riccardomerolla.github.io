@@ -1,7 +1,7 @@
 title:            riccardo.log
-description:      "Omega: The Coolest Theme for Jekyll"
-logo:             omikron.png
-disqus_shortname: hmfaysal
+description:      "ricky's brain log"
+#logo:             omikron.png
+#disqus_shortname: hmfaysal
 # Assign a default image for your site's header and footer
 default_bg:       default_bg1.jpg
 search:           true
@@ -11,14 +11,14 @@ readtime:         true
 # Specify the average Words per minute. If not defined, 180 will be used
 wpm:				      200
 # Turn on or off the fin animations in the header and footer
-triangleheader:		true
+triangleheader:	  false
 animated_fins:	  true
 # Specify the fin color in RGB value
 fin_color:        "255,255,255"
 # Change url to your domain. Leave localhost server or blank when working locally.
 # or use the hint from http://jekyllrb.com/docs/github-pages/ to keep this the same 
 # whether working locally or remotely. Start Jekyll with: jekyll serve --baseurl ''
-url:       		   /hmfaysal-omega-theme
+url:	  	  http://riccardomerolla.github.io/
 
 # Owner/author information
 owner:
@@ -26,7 +26,7 @@ owner:
   avatar:         rime.jpg
   email:          riccardo.merolla@gmail.com
   # Use the coder's toolbox at http://coderstoolbox.net/string/#!encoding=xml&action=encode&charset=us_ascii to encode your description into XML string
-  description:    Hossain Mohammad Faysal is an Electrical Engineer and a Mathematician based in Doha, Qatar. His interests are anything that&#8217;s related to math, from math itself to programming languages to music to physics to engineering to philosophy.
+  description:    ricky's brain log
   # Social networking links used in footer. Update and remove as you like.
   twitter:        rickydjit
   facebook:       riccardo.merolla
@@ -58,11 +58,11 @@ links:
     url: /categories
   - title: Tags
     url: /tags
-  - title: Faysal who?
-    url: /hossain-mohd-faysal
+  #- title: Faysal who?
+  #  url: /hossain-mohd-faysal
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:    America/New_York
+timezone:    Europe/Rome
 future:      true
 highlighter: pygments
 markdown:    kramdown
@@ -88,8 +88,8 @@ kramdown:
 
 prose:
   rooturl: '_posts'
-  siteurl: 'http://hmfaysal.github.io/'
-  relativeLinks: 'http://hmfaysal.github.io/links.jsonp'
+  siteurl: 'http://riccardomerolla.github.io/'
+  relativeLinks: 'http://riccardomerolla.github.io/links.jsonp'
   media: 'images'
   metadata:
     _posts:
