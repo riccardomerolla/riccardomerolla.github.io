@@ -21,6 +21,6 @@ featured: true
 published: true
 ---
 
-I'm working on a new Reactive Web Application. The source code is on my [github repositorie](https://github.com/riccardomerolla/play-scala-akka-angular-mongodb).
+I'm working on a new Reactive Web Application. The source code is on my [github repository](https://github.com/riccardomerolla/play-scala-akka-angular-mongodb).
 
 In short words is an AngularJS - Scala - Play - Guice - PlayReactiveMongo - Akka full application stack with the aim of building a Reactive Web application.
