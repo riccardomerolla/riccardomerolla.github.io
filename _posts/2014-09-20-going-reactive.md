@@ -23,4 +23,10 @@ published: true
 
 I'm working on a new Reactive Web Application. The source code is on my [github repository](https://github.com/riccardomerolla/play-scala-akka-angular-mongodb).
 
+<figure>
+        <a href="http://www.reactivemanifesto.org/"><img src="http://www.reactivemanifesto.org/images/reactive-traits.svg"></a>
+        <figcaption><a href="http://riccardomerolla.github.io/" data-toggle="tooltip" title="Go Reactive">Go Reactive</a>.</figcaption>
+</figure>
+
+
 In short words is an AngularJS - Scala - Play - Guice - PlayReactiveMongo - Akka full application stack with the aim of building a Reactive Web application.
