@@ -22,11 +22,3 @@ published: true
 ---
 
 I'm discovering the Go programming language, and as a first project, I've decided to create a command line application for check the server health on a linux machine. The source code is on my [github repository](https://github.com/riccardomerolla/go-server-health).
-
-```script
-./health
-
-or
-
-./health json
-```
