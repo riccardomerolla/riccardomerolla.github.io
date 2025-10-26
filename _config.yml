@@ -20,8 +20,8 @@ show-nav-menu: true
 nav-menu:
 - text: About
   permalink: about
-- text: Bitcoin
-  permalink: bitcoin
+- text: world@hey.com
+  permalink: https://world.hey.com/riccardo.merolla
 - text: Blog
   permalink: blog
 
