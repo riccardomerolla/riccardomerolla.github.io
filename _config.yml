@@ -12,7 +12,7 @@ theme-color: indigo # indigo|yellow|pink|green|stone|
 # homepage information
 author: Riccardo Merolla
 author-bio: "ricky's brain log"  # change to false to hide
-author-image: rime.jpg  # file must be in the /assets/img/ folder
+author-image: ricky-ghibli.jpg  # file must be in the /assets/img/ folder
 
 # navigation menu
 show-nav-menu: true
